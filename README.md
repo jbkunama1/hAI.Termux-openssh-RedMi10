@@ -1,4 +1,5 @@
 # 📱 Termux OpenSSH Server auf Android (z.B. Redmi 10)
+[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/highfish)
 
 Farbig gestaltete Anleitung zur Installation von **Termux**, **OpenSSH** und einem komfortablen Start/Stop/Restart-Script auf Android.
 
