@@ -6,7 +6,7 @@
 
 
 
-[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/highfish)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/highfish)
 
 Farbig gestaltete Anleitung zur Installation von **Termux**, **OpenSSH** und einem komfortablen Start/Stop/Restart-Script auf Android.
 
