@@ -1,4 +1,9 @@
 # 📱 Termux OpenSSH Server auf Android (z.B. Redmi 10)
+[![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)](https://github.com/jbkunama1/hAI.Termux-openssh-RedMi10)
+[![Android](https://img.shields.io/badge/Android-Termux-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jbkunama1/hAI.Termux-openssh-RedMi10)
+[![SSH](https://img.shields.io/badge/SSH-OpenSSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white)](https://github.com/jbkunama1/hAI.Termux-openssh-RedMi10)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+
 
 
 [![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/highfish)
